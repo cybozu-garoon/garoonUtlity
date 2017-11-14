@@ -5,7 +5,7 @@
 *
 * Copyright (C) 2017 Cybozu, Inc.
 */
-var $ = require("jquery");
+// var $ = require("jquery");
 window.GSC = window.GSC || {};
 var appFunction = function (url, username, password) {
 //var appFunction = function (url) {

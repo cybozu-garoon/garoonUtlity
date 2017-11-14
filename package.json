@@ -2,7 +2,7 @@
   "name": "garoonSoapConnector",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "./src/soap/main.js",
   "dependencies": {
     "webpack": "~2.2.1",
     "jquery": "~3.1.1"

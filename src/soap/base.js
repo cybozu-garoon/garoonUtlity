@@ -7,7 +7,7 @@
 *
 * Copyright (C) 2017 Cybozu, Inc.
 */
-var $ = require("jquery");
+// var $ = require("jquery");
 window.GSC = window.GSC || {};
 var baseFunction = function (app) {
   /// <summary>Baseで提供されるAPIを実行するためのクラス</summary>

@@ -7,7 +7,7 @@
 *
 * Copyright (C) 2017 Cybozu, Inc.
 */
-  var $ = require("jquery");
+//  var $ = require("jquery");
   var mySchedule = function (app) {
   /// <summary>Scheduleで提供されるAPIを実行するクラス</summary>
   /// <param name="app" type="GSC.CybozuConnect.App" />
